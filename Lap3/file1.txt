@@ -1,0 +1,9 @@
+This statistic shows the number of higher education 
+institutions in the United States from 1980 to 2017.
+ As can be seen in the graph, there were a total of 
+3803 higher education institutions across the 
+United States as of 2015. In 2016, there were 331 
+higher education institutions in California, the 
+highest number of any U.S. state. New York had the 
+second most higher education institutions with 967, 
+followed by Texas and Pennsylvania.
